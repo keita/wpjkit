@@ -1,0 +1,17 @@
+h1. WPJ Kit
+
+WPJ Kit is a collection of tools for making WPJ kanji character set.
+
+h2. Usage
+
+h3. Download Articles
+
+You need to download articles data (its file name likes "pages-articles.xml.bz2") of Wikipedia JP from http://download.wikimedia.org/jawiki/ and expand it.
+
+h3. Make database
+
+
+
+h2. Links
+
+* "¬¬日常日記：Wikipedia頻出の漢字集合「WPJ2000」を作ってみました":http://d.hatena.ne.jp/keita_yamaguchi/20080619/1213869551 the original article about WPJ2000(20080607) (written in Japanese)
